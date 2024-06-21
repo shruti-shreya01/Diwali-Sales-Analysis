@@ -31,12 +31,5 @@ README.md: Project documentation.
 
 requirements.txt: List of Python libraries required for the project.
 
-How to use
-1. Clone the repository:
-   git clone https://github.com/shruti-shreya01/diwali-sales-analysis.git
-2. Navigate to the project directory:
-   cd diwali-sales-analysis
-3. Open the Jupyter notebook:
-   jupyter notebook "Diwali Sales Analysis.py"
-4. Run the notebook cells to perform the analysis.
+
 
